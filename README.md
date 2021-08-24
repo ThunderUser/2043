@@ -25,3 +25,10 @@
 [+] Added a Liquid that will be very Important in the Game.
 [+] Added Water to the Game.
 [+] Added the option of third person (Behind) in the game. (This function cannot be enabled yet). 
+
+-------------------------
+
+08/24/2021 (3):
+[=] When I hit the Enter key when creating a new game, to start the game, it crashed. This is now fixed.
+[+] Added in the initial screen of the game, the credits section.
+[~] The game was optimized.
