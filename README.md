@@ -17,3 +17,11 @@
 [+] Starting to create the first chapter.
 
 -------------------------
+
+08/24/2021 (2):
+[=] Fixed Discord Rich Presence (When starting a game, the Discord Rich Presence stopped working. This has been fixed).
+[-] Deleted a line of code in Chapter one, which caused the game to run slower.
+[+] Added a Recipe Book.
+[+] Added a Liquid that will be very Important in the Game.
+[+] Added Water to the Game.
+[+] Added the option of third person (Behind) in the game. (This function cannot be enabled yet). 
