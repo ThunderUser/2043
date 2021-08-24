@@ -32,3 +32,9 @@
 [=] When I hit the Enter key when creating a new game, to start the game, it crashed. This is now fixed.
 [+] Added in the initial screen of the game, the credits section.
 [~] The game was optimized.
+
+-------------------------
+
+08/24/2021 (4):
+
+[+] Added Settings menu.  When you click on the menu, nothing happens, because it is not yet developed.
