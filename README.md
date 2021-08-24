@@ -12,3 +12,8 @@
 [~] Deleted and rewritten the Discord Rich Presence code to optimize the game like this (Junk code was eliminated, which only slows down the game)
 
 -------------------------
+
+08/24/2021:
+[+] Starting to create the first chapter.
+
+-------------------------
