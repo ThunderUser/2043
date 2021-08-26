@@ -38,3 +38,10 @@
 08/24/2021 (4):
 
 [+] Added Settings menu.  When you click on the menu, nothing happens, because it is not yet developed.
+
+-------------------------
+
+08/26/2021:
+
+[+] Added Settings section. The section is empty, and once you enter, you can't exit, unless you close the game, and reopen it.
+[-] Deleted the first liquid that was added to the game, due to an error in the programming of the game (It should be clarified that this liquid that has been eliminated is not water).
