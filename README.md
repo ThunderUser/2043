@@ -54,3 +54,16 @@
 [+] The resolution has been added in the graphics section in the configuration category. (Screen size). This is not yet functional.
 [+] Shadows have been added in the graphics section in the configuration category. (Detail of the shadows). This is not yet functional.
 [+] Gamma has been added in the graphics section in the settings category (Color Transition). This is not yet functional.
+
+-------------------------
+
+10/14/2021:
+
+[+] The intro of the first chapter has been created and entered.
+[+] All available main and secondary missions from the first chapter have been planned.
+[+] A system of hunger and thirst has developed.
+[+] A Clan system has been implemented.
+[+] A system of Enemy Clans has been developed.
+[+] A Clan Allies system has been developed.
+[+] Added 3 liquids to the game.
+[~] The game was optimized.
