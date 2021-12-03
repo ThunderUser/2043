@@ -84,3 +84,16 @@
 [+] Added a system for renaming the clan name.                 
 [=] Fixed a crash when clicking on the button to open the settings menu.             
 [~] The game was optimized.             
+
+-------------------------
+
+12/03/2021:
+
+[=] Previously, a bug caused you to be unable to eat or drink unless you were in a certain location. This is now fixed.
+[=] Fixed Discord Rich Presence.      
+[+] The most important liquid in the game, which had to be removed due to some errors, has been added back. It is now back, but for now, it has no function. (It should be clarified that this liquid is not water).      
+[+] Added function to the shadows option in the graphics section of the settings category (The shadows option, meaning the details of the shadows).        
+[+] Added function to the resolution option in the graphics section of the settings category (The resolution option, meaning the screen size and image quality).     
+[+] Now, depending on the food you eat, and whether it is cooked or not, or whether it is hot or cold, it will fill you up more or less.    
+[+] Now, if you consume a food, it may fill your thirst a bit, if the food, in real life, has a lot of juice/sauce.    
+[+] If you cook the food and it is hot for a long time, depending on the type it is, it will lose juice (that is, if the food you cook is a chicken and it is hot for a long time, it will lose juice and cause the chicken to be drier, and if the chicken is very dry, instead of filling your thirst a little, it will consume your thirst).     
