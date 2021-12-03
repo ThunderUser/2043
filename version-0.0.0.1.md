@@ -53,8 +53,8 @@
 08/26/2021 (2):
 
 [+] The graphics section has been added to the configuration category.          
-[+] The resolution has been added in the graphics section in the configuration category. (Screen size). This is not yet functional.            
-[+] Shadows have been added in the graphics section in the configuration category. (Detail of the shadows). This is not yet functional.             
+[+] The resolution has been added in the graphics section in the configuration category (Screen size). This is not yet functional.            
+[+] Shadows have been added in the graphics section in the configuration category (Detail of the shadows). This is not yet functional.             
 [+] Gamma has been added in the graphics section in the settings category (Color Transition). This is not yet functional.           
 
 -------------------------
