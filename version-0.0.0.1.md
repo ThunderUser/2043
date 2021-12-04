@@ -97,3 +97,10 @@
 [+] Now, depending on the food you eat, and whether it is cooked or not, or whether it is hot or cold, it will fill you up more or less.    
 [+] Now, if you consume a food, it may fill your thirst a bit, if the food, in real life, has a lot of juice/sauce.    
 [+] If you cook the food and it is hot for a long time, depending on the type it is, it will lose juice (that is, if the food you cook is a chicken and it is hot for a long time, it will lose juice and cause the chicken to be drier, and if the chicken is very dry, instead of filling your thirst a little, it will consume your thirst).     
+
+-------------------------
+
+12/04/2021:
+
+[~] The game was optimzed.    
+[=] Fixed crash when entering settings menu.   
