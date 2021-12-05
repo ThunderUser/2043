@@ -104,3 +104,15 @@
 
 [~] The game was optimzed.    
 [=] Fixed crash when entering settings menu.   
+
+------------------------
+
+12/05/2021:
+
+[+] Sand has been added.   
+[+] Grass has been added.    
+[+] Stone has been added.   
+[+] Added the 3 textures, for what has been added in this update.      
+[=] Fixed a bug with the enemy clan system again.    
+[+] The different configuration functions have been separated into different folders to avoid compatibility errors.    
+[+] Due to a bug in the Discord Rich Presence, the Discord Rich Presence has been separated from the Main file to avoid errors. Now, this function is in a separate file, in a different folder.    
