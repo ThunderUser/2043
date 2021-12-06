@@ -116,10 +116,3 @@
 [=] Fixed a bug with the enemy clan system again.    
 [+] The different configuration functions have been separated into different folders to avoid compatibility errors.    
 [+] Due to a bug in the Discord Rich Presence, the Discord Rich Presence has been separated from the Main file to avoid errors. Now, this function is in a separate file, in a different folder.    
-
-------------------------
-
-12/06/2021:
-
-[+] Added the generation of 3 planets, using for now only the 3 materials that for now are made (Planets with the following identifiers: "PT-045-03", "PT-091-70", "PT-807-35"). 
-[~] The game was optimized.    
