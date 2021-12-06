@@ -123,3 +123,15 @@
 
 [+] Added the generation of 3 planets, using for now only the 3 materials that for now are made (Planets with the following identifiers: "PT-045-03", "PT-091-70", "PT-807-35"). 
 [~] The game was optimized.    
+
+------------------------
+
+12/06/2021 (2):
+
+[+] Gypsum has been added.   
+[+] Terracotta has been added.    
+[+] Iron ore has been added.   
+[+] Gold ore has been added.    
+[+] Platinum ore has been added.     
+[+] Silver ore has been added.      
+[+] Added the 6 textures, for what has been added in this update.    
