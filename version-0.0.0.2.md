@@ -6,4 +6,11 @@
 [+] Marble has been added.    
 [+] Limestone has been added.   
 [+] Added the 5 textures, from what has been added in this update.    
-[~] The game was optimized.
+[~] The game was optimized.    
+
+-------------------------
+
+12/09/2021:
+
+[+] The generation of materials has been fixed, previously only diorita was generated.    
+
