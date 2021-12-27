@@ -33,3 +33,11 @@
 
 [+] Added the generation of 17 planets, using for now only the 14 materials that have been created for now (Planets with the following identifiers: "GS-091-30", "PM-536-07", "WZ-837-10", "LT-850-34", "PT-104-29", "GH-057-78", "UR-517-65", "PE-017-65", "OE-157-06", "QZ-104-05", "IE-517-73", "HB-414-91", "TR-834-80", "HJ-940-87", "GQ-064-10", "IX-586-19", "LK-540-53").            
 [=] Due to a bug, previously when opening the recipe book, the game was closed. This is now fixed.
+
+-------------------------
+
+12/27/2021:
+
+[~] The game was optimized.    
+
+
