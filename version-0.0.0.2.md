@@ -40,4 +40,12 @@
 
 [~] The game was optimized.    
 
+-------------------------
+
+12/28/2021:
+
+[+] First chapter completely created (the main and secondary missions are missing, but the base chapter is already done).    
+[+] Added the possibility of doing a SECONDARY mission in a chapter different from the chapter, where that mission was obtained.     
+[=] Fixed a generation error, in which all planets were identical, and were generated in the same section, although their section ID was different.     
+
 
